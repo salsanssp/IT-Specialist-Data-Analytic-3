@@ -190,7 +190,7 @@ A model is not particularly useful unless the customer can access its results. T
     - Non-maleficence: avoid violence or harm to research participants
     - Distributive Justice: Research participants should be selected fairly. Therefore, the burdens and benefits of the research must be fair.
 
- 5. PCI DSS adalah singkatan dari Payment Card Industry Data Security Standard. Ini adalah serangkaian standar keamanan yang bertujuan untuk melindungi data pemegang kartu dan mengurangi risiko penipuan dan pencurian data.
+ 5. PCI DSS stands for Payment Card Industry Data Security Standard. It is a set of security standards that aim to protect cardholder data and reduce the risk of fraud and data theft.
 
  ### Describe best practices for responsible data handling
  1. Methods of handling PII
